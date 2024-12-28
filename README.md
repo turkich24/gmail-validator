@@ -1,2 +1,2 @@
 # gmail-validator
-this cod help for valid all database (emails) with py
+this cod help for valid all emails from (@gmail.com) with open python code
